@@ -1,47 +1,81 @@
-# Zombie
-A browser-based zombie survival shooter where the player moves with the mouse and shoots using arrow keys while surviving endless waves of enemies.
 Zombie Survival
-A browser-based 2D arcade survival shooter built using HTML, CSS, and JavaScript.
-Move using your mouse or touchpad and shoot in four directions using the arrow keys while surviving endless zombie attacks.
+
+Zombie Survival is a browser-based 2D arcade shooter built using HTML, CSS, and JavaScript. The player moves using the mouse or touchpad and shoots in four directions using the arrow keys while surviving endless waves of zombies.
+
 Gameplay
-Zombies spawn from all sides of the arena and chase the player continuously.
-Your objective is to eliminate as many zombies as possible while keeping your health above zero.
-The game ends when the health bar is depleted.
+
+Zombies continuously spawn from all sides of the arena and chase the player.
+Your goal is to survive as long as possible by eliminating zombies while protecting your health.
+
+The game ends when the health bar reaches zero.
+
 Controls
+
 Movement
+
 Mouse / Touchpad → Move player
+
 Shooting
+
 Arrow Up → Shoot up
+
 Arrow Down → Shoot down
+
 Arrow Left → Shoot left
+
 Arrow Right → Shoot right
+
 Restart
-Click Restart button after Game Over
+
+Click the Restart button after Game Over
+
 Features
-Mouse-based smooth movement
-Directional shooting system
+
+Smooth mouse-based movement
+
+Four-direction shooting system
+
 Real-time health bar
+
 Continuous zombie spawning
-Collision detection
-Live score counter
-Game over screen with restart
+
+Collision detection system
+
+Live score tracking
+
+Game over screen with restart option
+
 Lightweight single-file implementation
+
 Tech Stack
+
 HTML
+
 CSS
-JavaScript (Vanilla)
+
+JavaScript (Vanilla JS)
+
 requestAnimationFrame for smooth animation
+
 How to Run
-Download the project files
+
+Download the project
+
 Open the .html file in any modern browser
+
 Learning Concepts Demonstrated
+
 DOM manipulation
-Event handling (keyboard + mouse)
+
+Keyboard and mouse event handling
+
 Game loop architecture
+
+Basic enemy AI using vector math
+
 Collision detection
-Basic AI movement using vector math
-State management
-Local score tracking
+
+State management in JavaScript
 Start playing
 
 No installation required.
